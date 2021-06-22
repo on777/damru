@@ -1,0 +1,76 @@
+Uri: https://biswap.org/
+File Name: C:\Downloaded Web Sites\biswap.org\index-1.htm
+Content Type: text/html
+
+Uri: https://biswap.org/favicon.ico
+File Name: C:\Downloaded Web Sites\biswap.org\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://biswap.org/logo.png
+File Name: C:\Downloaded Web Sites\biswap.org\logo-1.png
+Content Type: image/png
+
+Uri: https://biswap.org/manifest.json
+File Name: C:\Downloaded Web Sites\biswap.org\manifest-1.json
+Content Type: application/json
+
+Uri: https://biswap.org/static/css/main.f6e53e0c.chunk.css
+File Name: C:\Downloaded Web Sites\biswap.org\static\css\main.f6e53e0c.chunk.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-86G24L0LE8
+File Name: C:\Downloaded Web Sites\biswap.org\gtag\js-1.js
+Content Type: application/javascript
+
+Uri: https://biswap.org/static/js/5.260e12e0.chunk.js
+File Name: C:\Downloaded Web Sites\biswap.org\static\js\5.260e12e0.chunk.js
+Content Type: application/javascript
+
+Uri: https://biswap.org/static/js/main.8c7f3f0f.chunk.js
+File Name: C:\Downloaded Web Sites\biswap.org\static\js\main.8c7f3f0f.chunk.js
+Content Type: application/javascript
+
+Uri: https://biswap.org/static/media/bird.543ac2e0.svg
+File Name: C:\Downloaded Web Sites\biswap.org\static\media\bird.543ac2e0.svg
+Content Type: image/svg+xml
+
+Uri: https://biswap.org/static/media/banner.433f435c.png
+File Name: C:\Downloaded Web Sites\biswap.org\static\media\banner.433f435c.png
+Content Type: image/png
+
+Uri: https://biswap.org/static/media/HeroImg.0db4d693.png
+File Name: C:\Downloaded Web Sites\biswap.org\static\media\HeroImg.0db4d693.png
+Content Type: image/png
+
+Uri: https://biswap.org/static/media/font.5a896f10.woff2
+File Name: C:\Downloaded Web Sites\biswap.org\static\media\font.5a896f10.woff2
+Content Type: application/octet-stream
+
+Uri: https://biswap.org/static/media/font.94e34580.woff
+File Name: C:\Downloaded Web Sites\biswap.org\static\media\font.94e34580.woff
+Content Type: application/font-woff
+
+Uri: https://biswap.org/static/media/font.29c9e7b5.woff2
+File Name: C:\Downloaded Web Sites\biswap.org\static\media\font.29c9e7b5.woff2
+Content Type: application/octet-stream
+
+Uri: https://biswap.org/static/media/font.eafaf535.woff
+File Name: C:\Downloaded Web Sites\biswap.org\static\media\font.eafaf535.woff
+Content Type: application/font-woff
+
+Uri: https://biswap.org/static/media/font.36cfe94f.woff2
+File Name: C:\Downloaded Web Sites\biswap.org\static\media\font.36cfe94f.woff2
+Content Type: application/octet-stream
+
+Uri: https://biswap.org/static/media/font.6f70125a.woff
+File Name: C:\Downloaded Web Sites\biswap.org\static\media\font.6f70125a.woff
+Content Type: application/font-woff
+
+Uri: https://biswap.org/static/media/font.f6ca134a.woff2
+File Name: C:\Downloaded Web Sites\biswap.org\static\media\font.f6ca134a.woff2
+Content Type: application/octet-stream
+
+Uri: https://biswap.org/static/media/font.eecfffb5.woff
+File Name: C:\Downloaded Web Sites\biswap.org\static\media\font.eecfffb5.woff
+Content Type: application/font-woff
+
